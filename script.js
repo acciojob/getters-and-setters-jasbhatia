@@ -23,7 +23,7 @@ class Student extends Person {
 class Teacher extends Person {
 	// super();
 	teach(){
-		console.log(`${namee.name} is studying`)
+		console.log(`${namee.name} is teaching`)
 	}
 }
 
